@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ShotStick", "ShotStick\ShotStick.vcxproj", "{8EAF8BE6-F759-466D-86DD-67297EEA4AB0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8EAF8BE6-F759-466D-86DD-67297EEA4AB0}.Debug|x64.ActiveCfg = Debug|x64
+		{8EAF8BE6-F759-466D-86DD-67297EEA4AB0}.Debug|x64.Build.0 = Debug|x64
+		{8EAF8BE6-F759-466D-86DD-67297EEA4AB0}.Debug|x86.ActiveCfg = Debug|Win32
+		{8EAF8BE6-F759-466D-86DD-67297EEA4AB0}.Debug|x86.Build.0 = Debug|Win32
+		{8EAF8BE6-F759-466D-86DD-67297EEA4AB0}.Release|x64.ActiveCfg = Release|x64
+		{8EAF8BE6-F759-466D-86DD-67297EEA4AB0}.Release|x64.Build.0 = Release|x64
+		{8EAF8BE6-F759-466D-86DD-67297EEA4AB0}.Release|x86.ActiveCfg = Release|Win32
+		{8EAF8BE6-F759-466D-86DD-67297EEA4AB0}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {669BE7BA-93D6-4EBD-8477-4CF4BE9C38A3}
+	EndGlobalSection
+EndGlobal
